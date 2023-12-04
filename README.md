@@ -62,5 +62,5 @@ img_L.save('out.gif', save_all=True, append_images=[img_R], loop=0, duration=500
 
 display(Img(url='out.gif'))
 ```
-![Image Alt Text](https://github.com/TCK2001/Have_i_not_changed_all-/blob/main/out.gif)
+![Image Alt Text](https://github.com/TCK2001/Have_i_not_changed_all/blob/main/out.gif)
 
